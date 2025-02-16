@@ -1,0 +1,407 @@
+[
+    {
+        "name": "Flat UI Colors v1",
+        "colors": [
+            {
+                "name": "TURQUOISE",
+                "hex": "#1abc9c"
+            },
+            {
+                "name": "EMERALD",
+                "hex": "#2ecc71"
+            },
+            {
+                "name": "PETER RIVER",
+                "hex": "#3498db"
+            },
+            {
+                "name": "AMETHYST",
+                "hex": "#9b59b6"
+            },
+            {
+                "name": "WET ASPHALT",
+                "hex": "#34495e"
+            },
+            {
+                "name": "GREEN SEA",
+                "hex": "#16a085"
+            },
+            {
+                "name": "NEPHRITIS",
+                "hex": "#27ae60"
+            },
+            {
+                "name": "BELIZE HOLE",
+                "hex": "#2980b9"
+            },
+            {
+                "name": "WISTERIA",
+                "hex": "#8e44ad"
+            },
+            {
+                "name": "MIDNIGHT BLUE",
+                "hex": "#2c3e50"
+            }
+        ]
+    },
+    {
+        "name": "Material UI Colors",
+        "colors": [
+            {
+                "name": "RED",
+                "hex": "#f44336"
+            },
+            {
+                "name": "PINK",
+                "hex": "#e91e63"
+            },
+            {
+                "name": "PURPLE",
+                "hex": "#9c27b0"
+            },
+            {
+                "name": "DEEP PURPLE",
+                "hex": "#673ab7"
+            },
+            {
+                "name": "INDIGO",
+                "hex": "#3f51b5"
+            },
+            {
+                "name": "BLUE",
+                "hex": "#2196f3"
+            },
+            {
+                "name": "LIGHT BLUE",
+                "hex": "#03a9f4"
+            },
+            {
+                "name": "CYAN",
+                "hex": "#00bcd4"
+            },
+            {
+                "name": "TEAL",
+                "hex": "#009688"
+            },
+            {
+                "name": "GREEN",
+                "hex": "#4caf50"
+            }
+        ]
+    },
+    {
+        "name": "Social Colors",
+        "colors": [
+            {
+                "name": "FACEBOOK",
+                "hex": "#3b5998"
+            },
+            {
+                "name": "TWITTER",
+                "hex": "#1da1f2"
+            },
+            {
+                "name": "INSTAGRAM",
+                "hex": "#e1306c"
+            },
+            {
+                "name": "YOUTUBE",
+                "hex": "#ff0000"
+            },
+            {
+                "name": "LINKEDIN",
+                "hex": "#0077b5"
+            },
+            {
+                "name": "PINTEREST",
+                "hex": "#bd081c"
+            },
+            {
+                "name": "WHATSAPP",
+                "hex": "#25d366"
+            },
+            {
+                "name": "TELEGRAM",
+                "hex": "#0088cc"
+            },
+            {
+                "name": "SNAPCHAT",
+                "hex": "#fffc00"
+            },
+            {
+                "name": "DISCORD",
+                "hex": "#7289da"
+            }
+        ]
+    },
+    {
+        "name": "Metro Colors",
+        "colors": [
+            {
+                "name": "LIME",
+                "hex": "#a4c400"
+            },
+            {
+                "name": "GREEN",
+                "hex": "#60a917"
+            },
+            {
+                "name": "EMERALD",
+                "hex": "#008a00"
+            },
+            {
+                "name": "TEAL",
+                "hex": "#00aba9"
+            },
+            {
+                "name": "CYAN",
+                "hex": "#1ba1e2"
+            },
+            {
+                "name": "COBALT",
+                "hex": "#0050ef"
+            },
+            {
+                "name": "INDIGO",
+                "hex": "#6a00ff"
+            },
+            {
+                "name": "VIOLET",
+                "hex": "#aa00ff"
+            },
+            {
+                "name": "PINK",
+                "hex": "#f472d0"
+            },
+            {
+                "name": "MAGENTA",
+                "hex": "#d80073"
+            }
+        ]
+    },
+    {
+        "name": "Dutch Colors",
+        "colors": [
+            {
+                "name": "SUNFLOWER",
+                "hex": "#ffc312"
+            },
+            {
+                "name": "ENERGOS",
+                "hex": "#c4e538"
+            },
+            {
+                "name": "BLUE MARTINA",
+                "hex": "#12cbc4"
+            },
+            {
+                "name": "LAVENDER ROSE",
+                "hex": "#fda7df"
+            },
+            {
+                "name": "BARA RED",
+                "hex": "#ed4c67"
+            },
+            {
+                "name": "RADIANT YELLOW",
+                "hex": "#f79f1f"
+            },
+            {
+                "name": "ANDROID GREEN",
+                "hex": "#a3cb38"
+            },
+            {
+                "name": "MEDITERRANEAN",
+                "hex": "#1289a7"
+            },
+            {
+                "name": "LAVENDER TEA",
+                "hex": "#d980fa"
+            },
+            {
+                "name": "VERY BERRY",
+                "hex": "#b53471"
+            }
+        ]
+    },
+    {
+        "name": "Flat UI Colors v2",
+        "colors": [
+            {
+                "name": "FLAT FLESH",
+                "hex": "#fad390"
+            },
+            {
+                "name": "MELON MELODY",
+                "hex": "#f8c291"
+            },
+            {
+                "name": "LIVID",
+                "hex": "#6a89cc"
+            },
+            {
+                "name": "SPRAY",
+                "hex": "#82ccdd"
+            },
+            {
+                "name": "PARADISE GREEN",
+                "hex": "#b8e994"
+            },
+            {
+                "name": "SQUASH BLOSSOM",
+                "hex": "#f6b93b"
+            },
+            {
+                "name": "MANDARIN RED",
+                "hex": "#e55039"
+            },
+            {
+                "name": "AZRAQ BLUE",
+                "hex": "#4a69bd"
+            },
+            {
+                "name": "DUPAIN",
+                "hex": "#60a3bc"
+            },
+            {
+                "name": "AURORA GREEN",
+                "hex": "#78e08f"
+            }
+        ]
+    },
+    {
+        "name": "British Colors",
+        "colors": [
+            {
+                "name": "PROTOSS PYLON",
+                "hex": "#00a8ff"
+            },
+            {
+                "name": "PERIWINKLE",
+                "hex": "#9c88ff"
+            },
+            {
+                "name": "RISE-N-SHINE",
+                "hex": "#fbc531"
+            },
+            {
+                "name": "DOWNLOAD PROGRESS",
+                "hex": "#4cd137"
+            },
+            {
+                "name": "SEABROOK",
+                "hex": "#487eb0"
+            },
+            {
+                "name": "VANADYL BLUE",
+                "hex": "#0097e6"
+            },
+            {
+                "name": "MATT PURPLE",
+                "hex": "#8c7ae6"
+            },
+            {
+                "name": "NANOHANACHA GOLD",
+                "hex": "#e1b12c"
+            },
+            {
+                "name": "SKIRRET GREEN",
+                "hex": "#44bd32"
+            },
+            {
+                "name": "NAVAL",
+                "hex": "#40739e"
+            }
+        ]
+    },
+    {
+        "name": "Aussie Colors",
+        "colors": [
+            {
+                "name": "BEEKEEPER",
+                "hex": "#f6e58d"
+            },
+            {
+                "name": "SPICED NECTARINE",
+                "hex": "#ffbe76"
+            },
+            {
+                "name": "PINK GLAMOUR",
+                "hex": "#ff7979"
+            },
+            {
+                "name": "JUNE BUD",
+                "hex": "#badc58"
+            },
+            {
+                "name": "COASTAL BREEZE",
+                "hex": "#dff9fb"
+            },
+            {
+                "name": "TURBO",
+                "hex": "#f9ca24"
+            },
+            {
+                "name": "QUINCE JELLY",
+                "hex": "#f0932b"
+            },
+            {
+                "name": "CARMINE PINK",
+                "hex": "#eb4d4b"
+            },
+            {
+                "name": "PURE APPLE",
+                "hex": "#6ab04c"
+            },
+            {
+                "name": "HINT OF ICE PACK",
+                "hex": "#c7ecee"
+            }
+        ]
+    },
+    {
+        "name": "Russian Colors",
+        "colors": [
+            {
+                "name": "CREAMY PEACH",
+                "hex": "#f3a683"
+            },
+            {
+                "name": "ROSY HIGHLIGHT",
+                "hex": "#f7d794"
+            },
+            {
+                "name": "SOFT BLUE",
+                "hex": "#778beb"
+            },
+            {
+                "name": "BREWED MUSTARD",
+                "hex": "#e77f67"
+            },
+            {
+                "name": "OLD GERANIUM",
+                "hex": "#cf6a87"
+            },
+            {
+                "name": "SAWTOOTH AAK",
+                "hex": "#f19066"
+            },
+            {
+                "name": "SUMMERTIME",
+                "hex": "#f5cd79"
+            },
+            {
+                "name": "CORNFLOWER",
+                "hex": "#546de5"
+            },
+            {
+                "name": "TIGERLILY",
+                "hex": "#e15f41"
+            },
+            {
+                "name": "DEEP ROSE",
+                "hex": "#c44569"
+            }
+        ]
+    }
+]
